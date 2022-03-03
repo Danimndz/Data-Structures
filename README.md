@@ -1,2 +1,2 @@
 # Data-Structures
-## Data structures with resolved problems
+Data structures with resolved problems
